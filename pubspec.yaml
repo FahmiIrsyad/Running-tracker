@@ -1,0 +1,20 @@
+name: strava_like
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  geolocator: ^12.0.0
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.1
+  flutter_background_service: ^5.0.5
+  flutter_background_service_android: ^6.2.2
+  flutter_local_notifications: ^17.2.2
+  permission_handler: ^11.3.1
+
+flutter:
+  uses-material-design: true
