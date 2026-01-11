@@ -25,3 +25,4 @@ flutter run
 - iOS requires `NSLocationAlwaysAndWhenInUseUsageDescription` in `Info.plist` and the Background Modes capability (Location updates). This project only includes Android config scaffolding.
 # Running-tracker
 # Running-tracker
+# Running-tracker
